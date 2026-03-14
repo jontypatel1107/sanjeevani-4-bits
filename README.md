@@ -1,6 +1,6 @@
 # Sanjeevani – Integrated Emergency Health Infrastructure
 
-### Team Name: 4-Bites
+### Team Name: 4-Bits
 
 ---
 
